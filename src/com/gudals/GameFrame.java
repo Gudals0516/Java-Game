@@ -1,10 +1,9 @@
-import com.sun.corba.se.spi.activation.IIOP_CLEAR_TEXT;
+package com.gudals;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.Scanner;
 
 public class GameFrame extends JFrame{
     String computerStr = "컴퓨터";

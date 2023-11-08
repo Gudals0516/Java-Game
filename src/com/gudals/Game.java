@@ -1,5 +1,6 @@
-import java.util.Scanner;
-public class Game{
+package com.gudals;
+
+public class Game {
     boolean start = true;
     static int score = 0;
     int ran = 0;
